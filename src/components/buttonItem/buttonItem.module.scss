@@ -1,0 +1,24 @@
+$color-primary: black;
+$background-color-primary: white;
+$color-secondary: red;
+$background-color-secondary: lightgray;
+
+.navItem {
+  padding: 1rem;
+  border-radius: 1rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &:hover {
+    background-color: $background-color-secondary !important;
+  }
+}
+
+.logoItem {
+  padding: 0.5rem;
+  width: 48px;
+  background-color: transparent;
+  border-radius: 50%;
+}

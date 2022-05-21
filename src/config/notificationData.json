@@ -1,0 +1,19 @@
+{
+  "notifications": [
+    {
+      "imageURL": "https://media.istockphoto.com/photos/the-singer-from-brighton-picture-id1308599261?s=612x612",
+      "userName": "singer",
+      "message": " hi"
+    },
+    {
+      "imageURL": "https://media.istockphoto.com/photos/young-female-singer-recording-song-in-professional-music-studio-picture-id1311141517?s=612x612",
+      "userName": "singer",
+      "message": " hi"
+    },
+    {
+      "imageURL": "https://media.istockphoto.com/photos/male-singer-singing-in-recording-studio-picture-id1307465039?s=612x612",
+      "userName": "singer",
+      "message": " hi"
+    }
+  ]
+}

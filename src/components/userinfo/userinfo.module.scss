@@ -1,0 +1,26 @@
+$primary-coloar: lightgrey;
+
+.name {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.logo {
+  border-radius: 50%;
+  background: lightgrey;
+  width: 60px;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.container {
+  display: flex;
+}
+
+.second {
+  color: $primary-coloar;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}

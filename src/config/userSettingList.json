@@ -1,0 +1,14 @@
+{
+  "itemList": {
+    "Your Account": ["Add account", "Covert to business"],
+    "More Options": [
+      "Settings",
+      "Tune your home feed",
+      "Install the Chrome app",
+      "Get help",
+      "See terms and privacy",
+      "Log out"
+    ],
+    "Produced by": ["Casper"]
+  }
+}

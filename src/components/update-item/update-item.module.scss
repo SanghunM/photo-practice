@@ -1,0 +1,43 @@
+.title {
+  font-size: 0.8rem;
+  margin-top: 2rem;
+  width: 12rem;
+  height: 10rem;
+}
+
+.item {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
+.img {
+  width: 50px;
+  height: 60px;
+  object-fit: cover;
+  // display: block;
+  border-radius: 3rem;
+}
+
+.description {
+  font-size: 0.7rem;
+  .title {
+    font-weight: bolder;
+  }
+  flex: 1;
+  .content {
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    -webkit-line-clamp: 3;
+  }
+
+  margin-left: 1.2rem;
+  margin-right: 1.2rem;
+}
+
+.button {
+  border: none;
+  border-radius: 2rem;
+  background-color: white;
+}
